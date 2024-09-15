@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function CustomersPage() {
+export default async function CustomersPage() {
   return <p>Customers Page</p>;
 }
